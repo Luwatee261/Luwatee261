@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luwatee261
-- 👀 I’m interested in UX design 
-- 🌱 I’m currently learning UX design
+- 👀 I’m interested in Data Science and UX Design 
+- 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
